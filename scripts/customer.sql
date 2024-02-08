@@ -5,7 +5,7 @@ COntrol file - load a file to table according to the structure provided inside
 
 
 infile 'aqwerty/abc.txt'
-append into table XYZ 
+append into table ABC 
 field terminated by ',' trailing nullcols
 (
 customer_name,
